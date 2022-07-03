@@ -13,5 +13,12 @@
 	<classpathentry kind="lib" path="C:/selenum/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="C:/selenum/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/selenum/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenum/commons-io-2.11.0-bin/commons-io-2.11.0/junit-4.13.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/selenum/commons-io-2.11.0-bin/commons-io-2.11.0/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="C:/selenum/commons-io-2.11.0/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenum/commons-io-2.11.0/commons-io-2.11.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/selenum/commons-io-2.11.0/commons-io-2.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenum/commons-io-2.11.0/commons-io-2.11.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/selenum/commons-io-2.11.0/commons-io-2.11.0-test-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
